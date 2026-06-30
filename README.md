@@ -1,9 +1,9 @@
 # Hi there 👋
 
-I'm Dikshant, a developer who likes building things to understand how they work.
+I'm Dikshant, a developer who loves taking things apart just to understand how they work.
 
-Recently I've been exploring networking, databases, and web architecture through projects like a BitTorrent client and GitWatch.
+Recently I've been building projects around networking, distributed systems, and backend development, while contributing to open source and learning from production code.
 
-I enjoy learning by building systems from scratch, from a BitTorrent client to tools that help developers discover open-source contribution opportunities.
+I'm currently on a C programming obsession—implementing Unix utilities, writing libraries from scratch, and exploring what happens beneath the abstractions most developers use every day.
 
-Outside of coding, you'll usually find me solving LeetCode problems, reading, playing games, at the gym or planning my next project.
+When I'm not coding, I'm probably at the gym, solving LeetCode problems, reading, or planning the next thing I want to build, or most likely reading one of beej's guide.
