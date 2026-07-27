@@ -5,8 +5,10 @@ I'm Dikshant, a backend engineer who enjoys taking software apart to understand 
 ### Currently building
 
 - 🚀 Noddy BitTorrent — a BitTorrent client built from scratch in Node.js
-- 📚 Kosha — a personal knowledge management platform for lifelong learners
 - ⚙️ Unix utilities in C & GO — rebuilding core tools to better understand POSIX and systems programming
+---
+### Plan to build later
+- 📚 Kosha — a personal knowledge management platform for lifelong learners
 - 📂 Swoosh — A linux alternative for quick share
 
 ### Interests
